@@ -1,0 +1,16 @@
+{
+    "users": {
+      "uid1": {
+        "temperature": 25,
+        "humidity": 60,
+        "soil_moisture": 40,
+        "light": 500
+      },
+      "uid2": {
+        "temperature": 26,
+        "humidity": 65,
+        "soil_moisture": 45,
+        "light": 550
+      }
+    }
+  }
