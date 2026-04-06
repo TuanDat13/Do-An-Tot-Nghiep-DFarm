@@ -10,7 +10,7 @@
 ## 🛠 Công nghệ sử dụng
 - Flutter & Dart
 - Firebase
-- IoT (ESP82666, cảm biến DHT22, cảm biến độ ẩm đất, quang trở)
+- IoT (Arduino, ESP82666, cảm biến DHT22, cảm biến độ ẩm đất, quang trở)
 
 ## 📷 Screenshot
 
